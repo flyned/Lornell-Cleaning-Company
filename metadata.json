@@ -1,0 +1,7 @@
+{
+  "name": "Lornell Commercial Cleaning Co.",
+  "description": "Premium landing page for Lornell Commercial Cleaning, a New England-based facility services provider featuring a smart AI quote assistant and interactive service maps.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
